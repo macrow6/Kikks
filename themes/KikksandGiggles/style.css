@@ -1,0 +1,278 @@
+#brown {
+  color: #733D37;
+}
+#pink {
+  color: #d81192;
+}
+.bgheroimg {
+  background-image: url("img/balloon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+  padding: 100px 0 100px 0;
+    border-bottom: 3px solid #d81192;
+      border-top: 3px solid #d81192;
+
+}
+.bgCharImg {
+  background-image: url("img/balloon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+  padding: 50px 0 50px 0;
+    border-bottom: 3px solid #d81192;
+      border-top: 3px solid #d81192;
+}
+.heroRow {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  margin-top: -75px;
+  border-radius: 5px;
+
+}
+.center {
+  text-align: center;
+}
+.logoBgCircle {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  padding: 1;
+}
+#heroLogo {
+  width: 100%;
+
+  padding: 0;
+  position: relative;
+  top: 85px;
+  right: 1px;
+}
+.herop {
+  font-size: 2rem;
+  color: white;
+  font-family: Rubik;
+  letter-spacing: 0.1em;
+  padding: 30px 0;
+  text-shadow: 2px 2px 8px #000000;
+}
+.heroBox {
+  border: 3px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  display: inline-block;
+  background-color: rgba(242, 135, 183, 0.85);
+
+}
+.cta {
+  font-size: 1.5rem;
+  color: white;
+  font-family: Rubik;
+  letter-spacing: 0.1em;
+  text-shadow: 2px 2px 8px #000000;
+}
+.secTitle {
+  margin: 1em auto;
+  padding: .25em;
+  font-size: 1.5em;
+  font-family: Rubik;
+  background-color: rgba(242, 135, 183, 0.85);
+  border-radius: 2px;
+  color: white;
+  text-align: center;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .85);
+  text-shadow: 1px 1px 10px black;
+  border: 1px solid black;
+
+}
+.mainWrapBox2 {
+  border: 4px solid #d81192;
+  display: inline-flex;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.shadowMain {
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .85);
+}
+.imgbox2 {
+float: left;
+width: auto;
+
+}
+.datebox2 {
+  background-color: #d81192;
+  color: white;
+  display: inline-block;
+  width: 30%;
+  height: 150px;
+  float: left;
+  text-align: center;
+  padding-top: 25px;
+  font-size: 2em;
+  font-weight: bold;
+}
+.titlebox2 {
+
+  display: inline-block;
+  width: 60%;
+  height: 150px;
+  float: left;
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(242, 135, 183, 0.5);
+}
+#eventIMG {
+  width: 150px;
+}
+.btn-success {
+    color: white;
+    background-color: #d81192;
+    border-color: #d81192;
+}
+.btn-outline-info {
+    color: #d81192;
+    border-color: #d81192;
+}
+.socialBox {
+  color: #d81192;
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px;
+  margin-top: 15px;
+}
+.FBconnect {
+  display: inline-block;
+  font-size: 1.5em;
+
+}
+.bookNow {
+  margin-top: 20px;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 31.8%;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.fa-envelope {
+  font-size: 4em;
+  /* color: gray; */
+}
+.fa-facebook-square {
+  font-size: 4em;
+  /* color: blue; */
+}
+.fa-phone-square {
+  font-size: 4em;
+  /* color: green; */
+}
+
+body {
+
+  font-family: Rubik;
+
+}
+footer {
+  background-color: rgba(242, 135, 183, 0.85);
+  margin-top: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+/*---------------------------*/
+.kikksCardImg {
+  width: 100%;
+     height: 10vw;
+     object-fit: cover;
+}
+.kikksCardImgArchive {
+  width: 100%;
+     height: 15vw;
+     object-fit: cover;
+}
+.form-inline {
+  display: inline-flex;
+}
+.pageH1 {
+  color: white;
+  text-shadow: 2px 2px 8px #000000;
+}
+.pageP {
+  font-size: 1.25em;
+  margin-top: 20px;
+}
+.form-control {
+  border: 1px solid green;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.9);
+}
+/* media queries*/
+
+@media only screen and (max-width: 1199px) {
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 48%;
+  }
+
+
+
+
+
+@media only screen and (max-width: 991px) {
+
+  .kikksCardImg {
+    width: 100%;
+       height: 20vw;
+       object-fit: cover;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 30%;
+  }
+
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+  .kikksCardImg {
+    width: 100%;
+       height: 15vw;
+       object-fit: cover;
+  }
+
+}
+
+
+
+@media only screen and (max-width: 575px) {
+
+  .kikksCardImg {
+    width: 100%;
+       height: 50vw;
+       object-fit: cover;
+  }
+
+}

@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "additionalProperties": false,
+  "properties": {
+    "private": {
+      "default": false,
+      "id": "/properties/properties",
+      "type": "boolean"
+    },
+    "password_protection": {
+      "default": false,
+      "id": "/properties/password_protection",
+      "type": "boolean"
+    },
+    "password": {
+      "default": null,
+      "id": "/properties/password",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "registration": {
+      "default": null,
+      "id": "/properties/registration",
+      "type": [
+        "null",
+        "object"
+      ],
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+        "registration_codes": {
+          "type": "object",
+          "properties": {
+            "enabled": {
+              "type": "boolean",
+              "default": false
+            },
+            "codes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            }
+          }
+        },
+        "manager_email": {
+          "type": [
+            "null",
+            "string"
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "enabled",
+        "registration_codes"
+      ]
+    }
+  },
+  "required": [
+    "private",
+    "password_protection"
+  ],
+  "type": "object"
+}

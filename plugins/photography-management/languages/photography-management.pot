@@ -1,0 +1,1152 @@
+# #-#-#-#-#  php.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  js.pot  #-#-#-#-#\n"
+"POT-Creation-Date: 2019-06-03 09:54+0200\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+"#-#-#-#-#  php.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-19 17:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/ui/components/Modal/guts.js:103
+msgid "2 months discount!"
+msgstr "2 months discount!"
+
+#: src/ui/reason/Admin/Interactions.bs.js:159
+msgid "<0><1>Interactions</1>{0}</0>"
+msgstr "<0><1>Interactions</1>{0}</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:777
+msgid "<0>Bottom Left</0>"
+msgstr "<0>Bottom Left</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:777
+msgid "<0>Bottom right</0>"
+msgstr "<0>Bottom right</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:777
+msgid "<0>Center</0>"
+msgstr "<0>Center</0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:389
+msgid "<0>Comments</0>"
+msgstr "<0>Comments</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:468
+msgid "<0>Dark</0>"
+msgstr "<0>Dark</0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:488
+msgid "<0>Go ahead and create your first client.</0>"
+msgstr "<0>Go ahead and create your first client.</0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:168
+msgid "<0>Interactions</0>"
+msgstr "<0>Interactions</0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:389
+msgid "<0>Labels</0>"
+msgstr "<0>Labels</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:468
+msgid "<0>Light</0>"
+msgstr "<0>Light</0>"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "<0>Message</0>"
+msgstr "<0>Message</0>"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "<0>Name</0>"
+msgstr "<0>Name</0>"
+
+#: src/ui/views/admin/client/projectAccess/index.js:185
+msgid "<0>No Projects found. Go ahead and <1>create your first one!</1></0>"
+msgstr "<0>No Projects found. Go ahead and <1>create your first one!</1></0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:488
+msgid "<0>No clients to display</0>"
+msgstr "<0>No clients to display</0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:361
+msgid "<0>No data to display</0>"
+msgstr "<0>No data to display</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:565
+#: src/ui/reason/Admin/Settings.bs.js:777
+#: src/ui/reason/Admin/Settings.bs.js:798
+msgid "<0>None</0>"
+msgstr "<0>None</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:498
+msgid "<0>PHMM Default (Only use in special cases)</0>"
+msgstr "<0>PHMM Default (Only use in special cases)</0>"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:10
+msgid "<0>Plugin ID</0>"
+msgstr "<0>Plugin ID</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:486
+msgid "<0>Select</0>"
+msgstr "<0>Select</0>"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "<0>Subject</0>"
+msgstr "<0>Subject</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:488
+msgid "<0>Theme Default</0>"
+msgstr "<0>Theme Default</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:777
+msgid "<0>Top Left</0>"
+msgstr "<0>Top Left</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:777
+msgid "<0>Top Right</0>"
+msgstr "<0>Top Right</0>"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "<0>Topic</0>"
+msgstr "<0>Topic</0>"
+
+#: src/ui/views/admin/client/projectAccess/entry.js:103
+msgid "<0>draft</0>"
+msgstr "<0>draft</0>"
+
+#: src/ui/reason/Admin/Interactions.bs.js:241
+msgid "<0>fetching</0>"
+msgstr "<0>fetching</0>"
+
+#: src/ui/views/admin/client/projectAccess/entry.js:109
+msgid "<0>pending</0>"
+msgstr "<0>pending</0>"
+
+#: src/ui/views/admin/client/projectAccess/entry.js:115
+msgid "<0>private</0>"
+msgstr "<0>private</0>"
+
+#: src/ui/views/admin/client/projectAccess/entry.js:125
+msgid "<0>published</0>"
+msgstr "<0>published</0>"
+
+#: src/ui/reason/Admin/Settings.bs.js:572
+msgid "Accent color"
+msgstr "Accent color"
+
+#: src/ui/views/admin/project/access/index.js:179
+msgid "Access"
+msgstr "Access"
+
+#: src/ui/views/admin/client/projectAccess/sortableContainer.js:50
+msgid "Actions"
+msgstr "Actions"
+
+#: src/ui/views/admin/client/projectAccess/sortableContainer.js:38
+msgid "Active"
+msgstr "Active"
+
+#: src/ui/reason/Admin/Settings.bs.js:572
+msgid "Adapt the main color of your website"
+msgstr "Adapt the main color of your website"
+
+#: src/ui/reason/Admin/Settings.bs.js:119
+msgid "Add"
+msgstr "Add"
+
+#: src/ui/reason/Admin/Settings.bs.js:549
+msgid "Add a central login page for all clients"
+msgstr "Add a central login page for all clients"
+
+#: src/ui/reason/Admin/CannedEmails.bs.js:130
+msgid "Add canned email"
+msgstr "Add canned email"
+
+#: src/ui/reason/Admin/Settings.bs.js:519
+msgid "Add custom style to the client and project pages"
+msgstr "Add custom style to the client and project pages"
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:81
+msgid "Add new email template"
+msgstr "Add new email template"
+
+#: src/ui/views/admin/client/projectAccess/index.js:240
+msgid "Add projects"
+msgstr "Add projects"
+
+#: src/ui/components/project/Toggles/list.js:271
+msgid "Add small hurdle to download your images"
+msgstr "Add small hurdle to download your images"
+
+#: src/ui/reason/Admin/Settings.bs.js:586
+msgid "Administrative"
+msgstr "Administrative"
+
+#: src/ui/components/project/Toggles/list.js:308
+msgid "All images"
+msgstr "All images"
+
+#: src/ui/reason/Admin/Settings.bs.js:810
+msgid "Allow the plugin to send anonymous usage statistics and crash reports"
+msgstr "Allow the plugin to send anonymous usage statistics and crash reports"
+
+#: src/ui/views/admin/project/access/index.js:197
+msgid "Anyone can access this project"
+msgstr "Anyone can access this project"
+
+#: src/ui/components/project/Toggles/list.js:176
+msgid "Appearance"
+msgstr "Appearance"
+
+#: src/ui/reason/Entries/fatalError.bs.js:30
+msgid "Are you sure you want to disable the plugin?"
+msgstr "Are you sure you want to disable the plugin?"
+
+#: src/ui/reason/Entries/fatalError.bs.js:109
+msgid "Back to dashboard"
+msgstr "Back to dashboard"
+
+#: src/ui/views/public/project/filter/moreMenu.js:110
+msgid "Back to overview"
+msgstr "Back to overview"
+
+#: src/ui/reason/Admin/Migration.bs.js:143
+msgid ""
+"Before doing any action, <0><1><2>make sure to backup your "
+"website</2></1></0><3/>Please note that in Photography Management 4, every "
+"client has to have a username and a password. If you want to keep your "
+"clients without credentials functional then open them after the migration an "
+"set their credentials."
+msgstr ""
+"Before doing any action, <0><1><2>make sure to backup your "
+"website</2></1></0><3/>Please note that in Photography Management 4, every "
+"client has to have a username and a password. If you want to keep your "
+"clients without credentials functional then open them after the migration an "
+"set their credentials."
+
+#: src/ui/reason/Common/SortableGallery.bs.js:389
+msgid "By Caption"
+msgstr "By Caption"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:375
+msgid "By Name"
+msgstr "By Name"
+
+#: src/ui/views/admin/client/cannedEmailConfirm.js:54
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:143
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/ui/reason/Admin/Settings.bs.js:588
+msgid "Canned Emails"
+msgstr "Canned Emails"
+
+#: src/ui/components/project/Toggles/list.js:186
+msgid "Captions {PremiumHint}"
+msgstr "Captions {PremiumHint}"
+
+#: src/ui/components/Modal/guts.js:114
+msgid "Choose"
+msgstr "Choose"
+
+#: src/ui/views/public/project/image/IconMenu.js:102
+msgid "Comment"
+msgstr "Comment"
+
+#: src/ui/views/public/project/filter/filterMenu.js:115
+msgid "Commented"
+msgstr "Commented"
+
+#: src/ui/components/project/Toggles/list.js:253
+msgid "Comments {PremiumHint}"
+msgstr "Comments {PremiumHint}"
+
+#: src/ui/reason/Admin/Settings.bs.js:455
+msgid "Control the appearance of the slider"
+msgstr "Control the appearance of the slider"
+
+#: src/ui/reason/Admin/Settings.bs.js:488
+msgid "Current theme"
+msgstr "Current theme"
+
+#: src/ui/reason/Admin/Settings.bs.js:519
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: src/ui/reason/Entries/fatalError.bs.js:120
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: src/ui/reason/Admin/Settings.bs.js:102
+msgid "Define who receives notifications by email"
+msgstr "Define who receives notifications by email"
+
+#: src/ui/views/admin/client/projectAccess/entry.js:168
+msgid "Delete"
+msgstr "Delete"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:447
+msgid "Delete all"
+msgstr "Delete all"
+
+#: src/ui/reason/Admin/Settings.bs.js:615
+msgid "Delete images unique to the deleted project"
+msgstr "Delete images unique to the deleted project"
+
+#: src/ui/components/project/Toggles/list.js:289
+msgid "Disabled"
+msgstr "Disabled"
+
+#: src/ui/components/project/Toggles/list.js:190
+msgid "Display image captions in gallery"
+msgstr "Display image captions in gallery"
+
+#: src/ui/components/project/Toggles/list.js:206
+msgid "Display image file name in gallery"
+msgstr "Display image file name in gallery"
+
+#: src/ui/components/project/Toggles/list.js:223
+#: src/ui/reason/Admin/Settings.bs.js:653
+msgid "Display non-destructive overlay on images"
+msgstr "Display non-destructive overlay on images"
+
+#: src/ui/views/public/project/image/IconMenu.js:65
+msgid "Download"
+msgstr "Download"
+
+#: src/ui/views/public/project/filter/downloadMenu.js:140
+#: src/ui/views/public/project/filter/downloadMenu.js:141
+msgid "Download Menu"
+msgstr "Download Menu"
+
+#: src/ui/views/public/project/filter/downloadMenu.js:110
+msgid "Download all"
+msgstr "Download all"
+
+#: src/ui/views/public/project/filter/downloadMenu.js:125
+msgid "Download proofs"
+msgstr "Download proofs"
+
+#: src/ui/reason/Admin/Migration.bs.js:155
+msgid "Download report log"
+msgstr "Download report log"
+
+#: src/ui/components/project/Toggles/list.js:285
+msgid "Downloads"
+msgstr "Downloads"
+
+#: src/ui/reason/Admin/ClientEmail.bs.js:233
+msgid "E-mail"
+msgstr "E-mail"
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:82
+msgid "Edit template {0}"
+msgstr "Edit template {0}"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "Email"
+msgstr "Email"
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:127
+msgid "Email body"
+msgstr "Email body"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:27
+msgid "Email sent"
+msgstr "Email sent"
+
+#: src/ui/components/project/Toggles/list.js:257
+msgid "Enable comments for gallery images"
+msgstr "Enable comments for gallery images"
+
+#: src/ui/views/admin/project/access/index.js:219
+msgid "Enable guest login"
+msgstr "Enable guest login"
+
+#: src/ui/components/project/Toggles/list.js:241
+msgid "Enable proofing for gallery images"
+msgstr "Enable proofing for gallery images"
+
+#: src/ui/components/project/Toggles/list.js:288
+msgid "Enabled"
+msgstr "Enabled"
+
+#: src/ui/reason/Admin/Interactions.bs.js:282
+msgid "Export list"
+msgstr "Export list"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "Feature request"
+msgstr "Feature request"
+
+#: src/ui/components/project/Toggles/list.js:202
+msgid "File names {PremiumHint}"
+msgstr "File names {PremiumHint}"
+
+#: src/ui/reason/Admin/Settings.bs.js:425
+msgid "Fullscreen Slider"
+msgstr "Fullscreen Slider"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "General question"
+msgstr "General question"
+
+#: src/ui/reason/Utils/Modal.bs.js:135
+msgid "Get your premium version now"
+msgstr "Get your premium version now"
+
+#: src/ui/views/admin/project/access/index.js:218
+msgid "Guest mode"
+msgstr "Guest mode"
+
+#: src/ui/views/admin/project/access/index.js:239
+msgid "Guest password"
+msgstr "Guest password"
+
+#: src/ui/reason/Admin/Settings.bs.js:810
+msgid "Help improve the plugin"
+msgstr "Help improve the plugin"
+
+#: src/ui/reason/Admin/Settings.bs.js:501
+msgid "Hide login bar"
+msgstr "Hide login bar"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:25
+msgid ""
+"However, you can simply become one by <0>purchasing the Photography "
+"Management Premium license!</0>"
+msgstr ""
+"However, you can simply become one by <0>purchasing the Photography "
+"Management Premium license!</0>"
+
+#: src/ui/reason/Entries/fatalError.bs.js:90
+msgid "I clicked on 'X' and then hit Save"
+msgstr "I clicked on 'X' and then hit Save"
+
+#: src/ui/reason/Admin/Migration.bs.js:149
+msgid "I understand the above, let's go"
+msgstr "I understand the above, let's go"
+
+#: src/ui/reason/Entries/fatalError.bs.js:111
+msgid "If this issue persists, you can deactivate the plugin."
+msgstr "If this issue persists, you can deactivate the plugin."
+
+#: src/ui/reason/Admin/SupportPage.bs.js:84
+msgid ""
+"If you encounter a problem, please <0>visit the official photography "
+"management website</0> for the FAQ first."
+msgstr ""
+"If you encounter a problem, please <0>visit the official photography "
+"management website</0> for the FAQ first."
+
+#: src/ui/reason/Entries/fatalError.bs.js:86
+msgid "If you would like to help, tell us what happened below."
+msgstr "If you would like to help, tell us what happened below."
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:14
+msgid "Installed"
+msgstr "Installed"
+
+#: src/ui/components/project/Toggles/list.js:231
+msgid "Interaction"
+msgstr "Interaction"
+
+#: src/ui/reason/Admin/ClientInternalNotes.bs.js:59
+msgid "Internal Notes"
+msgstr "Internal Notes"
+
+#: src/ui/reason/Entries/fatalError.bs.js:86
+msgid "It looks like PHMM has some internal issues."
+msgstr "It looks like PHMM has some internal issues."
+
+#: src/ui/views/public/project/image/IconMenu.js:83
+msgid "Like"
+msgstr "Like"
+
+#: src/ui/views/public/project/filter/moreMenu.js:91
+msgid "Logout"
+msgstr "Logout"
+
+#: src/ui/reason/Admin/Settings.bs.js:588
+msgid "Manage prewritten emails to clients"
+msgstr "Manage prewritten emails to clients"
+
+#: src/ui/reason/Admin/Settings.bs.js:596
+msgid "Maximum Download ZIP size"
+msgstr "Maximum Download ZIP size"
+
+#: src/ui/views/public/project/filter/moreMenu.js:54
+msgid "More menu"
+msgstr "More menu"
+
+#: src/ui/reason/Admin/CannedEmails.bs.js:82
+msgid "My canned emails"
+msgstr "My canned emails"
+
+#: src/ui/components/Modal/guts.js:190
+msgid ""
+"No contract. No hassle. You can cancel your subscription at anytime and you "
+"won't be charged at the following billing cycles anymore."
+msgstr ""
+"No contract. No hassle. You can cancel your subscription at anytime and you "
+"won't be charged at the following billing cycles anymore."
+
+#: src/ui/views/public/project/image/gallery.js:114
+msgid "No images in selected filter"
+msgstr "No images in selected filter"
+
+#: src/ui/views/admin/client/projectAccess/index.js:198
+msgid "No projects assigned"
+msgstr "No projects assigned"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:16
+msgid "Not installed"
+msgstr "Not installed"
+
+#: src/ui/reason/Admin/Settings.bs.js:102
+msgid "Notification recipients"
+msgstr "Notification recipients"
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:151
+msgid "Ok"
+msgstr "Ok"
+
+#: src/ui/reason/Admin/Settings.bs.js:679
+msgid "Only .png files can be used for watermark"
+msgstr "Only .png files can be used for watermark"
+
+#: src/ui/views/admin/project/access/index.js:196
+msgid "Only assigned clients have access"
+msgstr "Only assigned clients have access"
+
+#: src/ui/reason/Admin/Settings.bs.js:425
+msgid "Open a full-screen slider when image is clicked"
+msgstr "Open a full-screen slider when image is clicked"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:413
+msgid "Order"
+msgstr "Order"
+
+#: src/ui/views/admin/client/projectAccess/sortableContainer.js:47
+msgid "Overwrite project configuration"
+msgstr "Overwrite project configuration"
+
+#: src/ui/reason/Admin/Settings.bs.js:471
+msgid "Page template"
+msgstr "Page template"
+
+#: src/ui/components/project/Toggles/list.js:240
+msgid "Photo proofing"
+msgstr "Photo proofing"
+
+#: src/ui/reason/Admin/Migration.bs.js:155
+msgid "Photography Management Update failed"
+msgstr "Photography Management Update failed"
+
+#: src/ui/reason/Admin/Migration.bs.js:155
+msgid "Photography Management is done updating"
+msgstr "Photography Management is done updating"
+
+#: src/ui/reason/Admin/Migration.bs.js:163
+msgid "Photography Management is updating its database"
+msgstr "Photography Management is updating its database"
+
+#: src/ui/reason/Admin/Migration.bs.js:143
+msgid "Photography Management needs to update its database"
+msgstr "Photography Management needs to update its database"
+
+#: src/ui/reason/Admin/Settings.bs.js:579
+msgid "Pick color"
+msgstr "Pick color"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:49
+msgid ""
+"Please Download and install the premium extension to activate the premium "
+"features!"
+msgstr ""
+"Please Download and install the premium extension to activate the premium "
+"features!"
+
+#: src/ui/reason/Admin/Migration.bs.js:155
+msgid "Please reload the page to finish the update"
+msgstr "Please reload the page to finish the update"
+
+#: src/ui/reason/Admin/Migration.bs.js:163
+msgid "Please wait for the update to finish"
+msgstr "Please wait for the update to finish"
+
+#: src/ui/reason/Admin/ClientEmail.bs.js:168
+msgid "Please wait while the email is checked"
+msgstr "Please wait while the email is checked"
+
+#: src/ui/reason/Admin/ClientLoginName.bs.js:157
+msgid "Please wait while the username is checked"
+msgstr "Please wait while the username is checked"
+
+#: src/ui/reason/Admin/Settings.bs.js:549
+msgid "Portal page"
+msgstr "Portal page"
+
+#: src/ui/reason/Admin/Settings.bs.js:762
+msgid "Position"
+msgstr "Position"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:14
+msgid "Premium extension"
+msgstr "Premium extension"
+
+#: src/ui/components/project/Toggles/list.js:269
+msgid "Prevent right-click"
+msgstr "Prevent right-click"
+
+#: src/ui/components/Modal/guts.js:171
+msgid "Pricing"
+msgstr "Pricing"
+
+#: src/ui/views/admin/project/access/index.js:191
+msgid "Private"
+msgstr "Private"
+
+#: src/ui/views/admin/client/projectAccess/sortableContainer.js:41
+msgid "Project name"
+msgstr "Project name"
+
+#: src/ui/views/admin/client/projectAccess/sortableContainer.js:44
+msgid "Project status"
+msgstr "Project status"
+
+#: src/ui/components/project/Toggles/list.js:317
+msgid "Proofed images {PremiumHint}"
+msgstr "Proofed images {PremiumHint}"
+
+#: src/ui/reason/Admin/Interactions.bs.js:202
+#: src/ui/views/public/project/filter/filterMenu.js:89
+msgid "Proofs"
+msgstr "Proofs"
+
+#: src/ui/reason/Admin/Settings.bs.js:423
+#: src/ui/views/admin/project/access/index.js:192
+msgid "Public"
+msgstr "Public"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:361
+msgid "Random"
+msgstr "Random"
+
+#: src/ui/components/Modal/guts.js:113
+msgid "Redirecting..."
+msgstr "Redirecting..."
+
+#: src/ui/components/common/singleImageUploader.js:97
+#: src/ui/reason/Admin/CannedEmails.bs.js:69
+msgid "Remove"
+msgstr "Remove"
+
+#: src/ui/reason/Admin/Settings.bs.js:615
+msgid "Remove images on project deletion"
+msgstr "Remove images on project deletion"
+
+#: src/ui/reason/Admin/Settings.bs.js:501
+msgid "Remove the WordPress bar when client is logged in"
+msgstr "Remove the WordPress bar when client is logged in"
+
+#: src/ui/views/admin/client/cannedEmailConfirm.js:57
+msgid "Resend"
+msgstr "Resend"
+
+#: src/ui/views/admin/client/cannedEmailConfirm.js:31
+msgid "Resend this email?"
+msgstr "Resend this email?"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:405
+msgid "Reverse"
+msgstr "Reverse"
+
+#: src/ui/components/Modal/guts.js:87
+msgid "Save two months"
+msgstr "Save two months"
+
+#: src/ui/reason/Admin/ClientSendCannedEmail.bs.js:282
+msgid "Save your changes first"
+msgstr "Save your changes first"
+
+#: src/ui/reason/Admin/Settings.bs.js:783
+msgid "Scale"
+msgstr "Scale"
+
+#: src/ui/reason/Utils/Modal.bs.js:149
+msgid "See all features included in the premium version"
+msgstr "See all features included in the premium version"
+
+#: src/ui/reason/Admin/Interactions.bs.js:185
+msgid "Select a client..."
+msgstr "Select a client..."
+
+#: src/ui/reason/Admin/Settings.bs.js:679
+msgid "Select image"
+msgstr "Select image"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "Send"
+msgstr "Send"
+
+#: src/ui/reason/Entries/fatalError.bs.js:105
+msgid "Send report"
+msgstr "Send report"
+
+#: src/ui/views/public/project/filter/filterMenu.js:67
+msgid "Show all"
+msgstr "Show all"
+
+#: src/ui/views/public/project/filter/filterMenu.js:137
+msgid "Show filters"
+msgstr "Show filters"
+
+#: src/ui/components/project/Toggles/list.js:330
+msgid "Single image {PremiumHint}"
+msgstr "Single image {PremiumHint}"
+
+#: src/ui/reason/Admin/Settings.bs.js:455
+msgid "Slider Theme"
+msgstr "Slider Theme"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:22
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/ui/reason/Admin/Migration.bs.js:155
+msgid ""
+"Something went wrong migrating your data.<0/>Please download the report log "
+"and send it to us via email. We will help you troubleshoot the issue.<1/"
+">Restore your backup in order to use the old version of Photography "
+"Management."
+msgstr ""
+"Something went wrong migrating your data.<0/>Please download the report log "
+"and send it to us via email. We will help you troubleshoot the issue.<1/"
+">Restore your backup in order to use the old version of Photography "
+"Management."
+
+#: src/ui/reason/Admin/Settings.bs.js:596
+msgid "Split downloads into multiple zips if the size exceeds this value"
+msgstr "Split downloads into multiple zips if the size exceeds this value"
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:112
+msgid "Subject"
+msgstr "Subject"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "Subscription related"
+msgstr "Subscription related"
+
+#: src/ui/reason/Admin/Settings.bs.js:808
+msgid "Support"
+msgstr "Support"
+
+#: src/ui/reason/Utils/Modal.bs.js:135
+msgid ""
+"Take advantage of the large number of professional features and take your "
+"business one step further!"
+msgstr ""
+"Take advantage of the large number of professional features and take your "
+"business one step further!"
+
+#: src/ui/reason/Admin/SupportPage.bs.js:86
+msgid "Technical problem"
+msgstr "Technical problem"
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:97
+msgid "Template Title"
+msgstr "Template Title"
+
+#: src/ui/reason/Entries/fatalError.bs.js:105
+msgid "Thank you for your support. Please reload the page"
+msgstr "Thank you for your support. Please reload the page"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:20
+msgid "The PHMM servers seem to be down at the moment. Please try again later."
+msgstr ""
+"The PHMM servers seem to be down at the moment. Please try again later."
+
+#: src/ui/views/admin/settings/canndEmailEditTemplate.js:89
+msgid "The following placeholders are supported: {placeholders}"
+msgstr "The following placeholders are supported: {placeholders}"
+
+#: src/ui/reason/Admin/ClientEmail.bs.js:134
+msgid "This email is already assigned to a WordPress user"
+msgstr "This email is already assigned to a WordPress user"
+
+#: src/ui/reason/Admin/ClientLoginName.bs.js:129
+msgid "This username is already assigned to a WordPress user"
+msgstr "This username is already assigned to a WordPress user"
+
+#: src/ui/views/admin/client/projectAccess/index.js:243
+msgid "Type Project name"
+msgstr "Type Project name"
+
+#: src/ui/views/public/project/image/IconMenu.js:83
+msgid "Unlike"
+msgstr "Unlike"
+
+#: src/ui/reason/Admin/Migration.bs.js:155
+msgid "Update"
+msgstr "Update"
+
+#: src/ui/components/common/singleImageUploader.js:89
+#: src/ui/components/common/singleImageUploader.js:121
+#: src/ui/reason/Common/SortableGallery.bs.js:434
+msgid "Upload"
+msgstr "Upload"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:472
+msgid "Upload images"
+msgstr "Upload images"
+
+#: src/ui/reason/Admin/Settings.bs.js:471
+msgid "Use specific page template for public gallery"
+msgstr "Use specific page template for public gallery"
+
+#: src/ui/reason/Admin/ClientLoginPassword.bs.js:51
+msgid "User login password"
+msgstr "User login password"
+
+#: src/ui/reason/Admin/ClientLoginName.bs.js:222
+msgid "Username"
+msgstr "Username"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:52
+msgid ""
+"Want to transfer your licence to another website?<0/><1>Just send us an "
+"email </1>with your current plugin ID (this website) and your target plugin "
+"ID (the website you want to transfer the licence to."
+msgstr ""
+"Want to transfer your licence to another website?<0/><1>Just send us an "
+"email </1>with your current plugin ID (this website) and your target plugin "
+"ID (the website you want to transfer the licence to."
+
+#: src/ui/components/project/Toggles/list.js:221
+#: src/ui/reason/Admin/Settings.bs.js:653
+msgid "Watermark"
+msgstr "Watermark"
+
+#: src/ui/reason/Admin/Settings.bs.js:727
+msgid "Watermark image"
+msgstr "Watermark image"
+
+#: src/ui/components/Modal/guts.js:199
+msgid "We support"
+msgstr "We support"
+
+#: src/ui/reason/Admin/Migration.bs.js:143
+msgid "Without this, Photography Management can not work."
+msgstr "Without this, Photography Management can not work."
+
+#: src/ui/views/public/project/comment/Editor/editor.js:196
+msgid "Write a message"
+msgstr "Write a message"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:46
+msgid "You are a Premium Photography Management User!"
+msgstr "You are a Premium Photography Management User!"
+
+#: src/ui/reason/Admin/PremiumPage.bs.js:25
+msgid "You are currently not a premium user."
+msgstr "You are currently not a premium user."
+
+#: src/ui/views/admin/client/cannedEmailConfirm.js:35
+msgid "You have sent this email to this client {0}"
+msgstr "You have sent this email to this client {0}"
+
+#: src/ui/components/Modal/guts.js:63
+msgid "month"
+msgstr "month"
+
+#: src/ui/reason/Admin/Interactions.bs.js:352
+msgid "open"
+msgstr "open"
+
+#: src/ui/components/Modal/guts.js:63
+msgid "year"
+msgstr "year"
+
+#: src/ui/reason/Admin/Interactions.bs.js:329
+msgid ""
+"{0, plural, zero {{undefined}} one {# comment for image} two {{undefined}} "
+"other {# comments for image} few {{undefined}} many {{undefined}}}"
+msgstr ""
+"{0, plural, zero {{undefined}} one {# comment for image} two {{undefined}} "
+"other {# comments for image} few {{undefined}} many {{undefined}}}"
+
+#: src/ui/reason/Admin/Interactions.bs.js:311
+msgid ""
+"{0, plural, zero {{undefined}} one {# image in project} two {{undefined}} "
+"other {# images in project} few {{undefined}} many {{undefined}}}"
+msgstr ""
+"{0, plural, zero {{undefined}} one {# image in project} two {{undefined}} "
+"other {# images in project} few {{undefined}} many {{undefined}}}"
+
+#: src/ui/reason/Common/SortableGallery.bs.js:423
+msgid ""
+"{0, plural, zero {{undefined}} one {# image} two {{undefined}} other {# "
+"images} few {{undefined}} many {{undefined}}}"
+msgstr ""
+"{0, plural, zero {{undefined}} one {# image} two {{undefined}} other {# "
+"images} few {{undefined}} many {{undefined}}}"
+
+#: src/premium/build/code/includes/privacy.php:100
+#: src/premium/build/code/includes/privacy.php:112
+#: src/base/build/code/includes/privacy.php:62
+msgid "Photography Management Plugin"
+msgstr ""
+
+#: src/base/build/code/public/public.php:334
+msgid "No Access"
+msgstr ""
+
+#: src/base/build/code/public/public.php:340
+msgid ""
+"You view the project as an admin. To verify the project password protection, "
+"open this page in an incognito window."
+msgstr ""
+
+#: src/base/build/code/public/public.php:401
+msgid "Guest login"
+msgstr ""
+
+#: src/base/build/code/public/public.php:409
+msgid "Client login"
+msgstr ""
+
+#: src/base/build/code/public/public.php:436
+msgid ""
+"You are logged in as admin. Logout to see the client login form and login as "
+"client to see the redirection"
+msgstr ""
+
+#: src/base/build/code/admin/support_page.php:25
+#: src/base/build/code/admin/premium_page.php:25
+msgid ""
+"Join our <a style='color: coral' target='_blank' href='https:\\/\\/www."
+"facebook.com/groups/1529247670736165/'>facebook group</a> to get immediate "
+"help or get in contact with other photographers using WordPress!"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:30
+#: src/base/build/code/admin/admin.php:39
+msgid "Clients"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:31
+msgid "Client"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:32
+msgid "New client"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:34
+msgid "Add new client"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:37
+msgid "Edit client"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:38
+msgid "View client"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:41
+#: src/base/build/code/admin/admin.php:77
+msgid "Photography Management"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:66
+#: src/base/build/code/admin/admin.php:75
+#: src/base/build/code/admin/frontendHandler.php:599
+msgid "Projects"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:67
+msgid "Project"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:68
+msgid "New project"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:70
+msgid "Add new project"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:73
+msgid "Edit project"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:74
+msgid "View project"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:105
+msgid "Client Information"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:113
+msgid "Project access"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:133
+msgid "Cover Image"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:141
+msgid "Configuration"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:152
+msgid "Gallery"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:443
+msgid "Want to help us improve the plugin?"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:449
+msgid ""
+"Please allow Photography Management to send anonymous usage statistics and "
+"crash reports."
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:453
+msgid "No, thanks"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:455
+msgid "Yes, sure!"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:478
+msgid ""
+"<p><strong>Photography Management</strong>: use the coupon <i>freespeed</i> "
+"and get the <strong><a href=\"https://codeneric.com/shop/phmm-fast-images/"
+"\">PHMM Fast Images</a></strong> extension for free!</p>"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:495
+msgid ""
+"<p><strong>PHMM Fast Images</strong>: the plugin was deactivated, because it "
+"is outdated. Please download the <strong><a href=\""
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:521
+msgid "How do you like Photography Managment?"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:527
+msgid "LOVE IT, 5 STARS!"
+msgstr ""
+
+#: src/base/build/code/admin/admin.php:531
+msgid "don't like it."
+msgstr ""
+
+#: src/base/build/code/admin/settings.php:88
+#: src/base/build/code/admin/settings.php:89
+#: src/base/build/code/admin/settings.php:96
+msgid "Settings"
+msgstr ""
+
+#: src/base/build/code/admin/settings.php:100
+#, php-format
+msgid ""
+"Join our <a style='color: coral' target='_blank' href='%s'>facebook group</"
+"a> to get immediate help or get in contact with other photographers using "
+"WordPress!"
+msgstr ""
+
+#: src/base/build/code/admin/interactions_page.php:13
+#: src/base/build/code/admin/interactions_page.php:14
+msgid "Interactions"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:565
+msgid "No title"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:581
+msgid "Enter client name here"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:584
+msgid "Enter project name here"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:598
+msgid "Name"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:601
+#: src/base/build/code/admin/frontendHandler.php:611
+msgid "Shortcode"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:602
+#: src/base/build/code/admin/frontendHandler.php:612
+msgid "Date"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:609
+msgid "Project Name"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:610
+msgid "Categories"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:681
+msgid "Unnamed project"
+msgstr ""
+
+#: src/base/build/code/admin/frontendHandler.php:713
+#, php-format
+msgid ""
+"The chosen page template in Photography Management -> Settings does not "
+"exist. Have you changed your theme recently? <br />Please <a href=\"%s"
+"\">update</a> the option."
+msgstr ""
+
+#: src/base/build/code/admin/update_functions.php:45
+msgid "PHMM Client"
+msgstr ""
+
+#: src/base/build/code/admin/premium_page.php:13
+#: src/base/build/code/admin/premium_page.php:14
+msgid "Premium"
+msgstr ""
+
+#: src/base/build/code/admin/premium_page.php:21
+msgid "Premium Page"
+msgstr ""

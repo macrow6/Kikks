@@ -1,0 +1,10 @@
+<?php
+get_header();
+include("hero.php");
+include("about.php");
+include("events.php");
+include("characters.php");
+include("themes.php");
+include("reviews.php");
+include("photos.php");
+get_footer();
